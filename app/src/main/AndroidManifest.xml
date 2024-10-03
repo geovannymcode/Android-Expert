@@ -33,20 +33,6 @@
                 android:value="" />
         </activity>
         <activity
-            android:name=".imccalculator.ResultIMCActivity1"
-            android:exported="false" >
-            <meta-data
-                android:name="android.app.lib_name"
-                android:value="" />
-        </activity>
-        <activity
-            android:name=".imccalculator.ImcCalculatorActivity1"
-            android:exported="false" >
-            <meta-data
-                android:name="android.app.lib_name"
-                android:value="" />
-        </activity>
-        <activity
             android:name=".MenuActivity"
             android:exported="true" >
             <intent-filter>
